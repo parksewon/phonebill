@@ -6,7 +6,7 @@
           <entry key="CORS_ALLOWED_ORIGINS" value="http://localhost:3000" />
           <entry key="DB_CONNECTION_TIMEOUT" value="30000" />
           <entry key="DB_HOST" value="20.249.175.46" />
-          <entry key="DB_IDLE_TIMEOUT" value="600000" />
+          <entry key="DB_IDLE_TIMEOUT" value="600000" />[{"mailSN":60561,"folderSN":0,"folderName":null,"iconType":0,"status":2097152,"from":{"name":"인크루트 관심기업","email":"master@incruit-email.com"},"subject":"(주)엔씨소프트의 공고가 곧 마감됩니다! 서둘러 확인해 보세요.","receivedTime":1758770132,"sentTime":1758770132,"size":29248,"attachCount":0,"iDomainEmail":"tpdnjs1825@naver.com","priority":3,"securityLevel":null,"reSend":false,"color":"#ffffff","preview":"2025.09.25 관심기업 채용 정보 마감 임박 알림 박세원님께서 관심기업으로 설정하신 (주)엔씨소프트의 채용정보 마감일이 임박했습니다. (주)엔씨소프트 진행중인 채용정보 기업정보 더보기 &gt; [Project NL] 차세대 리니지 프로젝트 엔진 프로그래머 모집 경기 성","mimeSN":"1758770132.265382.164.59136","toList":[{"name":"박세원","email":"tpdnjs1825@naver.com"}],"spamType":null,"attachInfo":[],"threadId":"<202509251215324954@incruit-email.com>","bccList":[],"receiveByBcc":false,"threadCount":0,"unreadThreadCount":0,"firstLocatedTime":1758770132,"remindAt":0,"threadRemindAt":0,"threadRemindFlag":0,"category":214,"lastLocatedTime":0,"isFromEmailSameTenant":false,"senderCountryCode":null,"senderCountryImgUrl":null,"senderIp":null,"receiveFromExternal":false,"receiveFromType":0,"reactionCount":-1,"toMe":true,"bigFile":false,"statusHex":"200000","isDomainMail":false,"oldBigFile":false}]
           <entry key="DB_KIND" value="postgresql" />
           <entry key="DB_LEAK_DETECTION" value="60000" />
           <entry key="DB_MAX_LIFETIME" value="1800000" />
